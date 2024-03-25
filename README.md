@@ -39,12 +39,17 @@
 ![image](https://github.com/Hoshino-coder/Book/assets/154045874/e1c27cd8-d438-45a0-9f3f-430d4b0e9122)![image](https://github.com/Hoshino-coder/Book/assets/154045874/005e6187-af14-4a44-9358-ec9879fe2102)
 
 
-
-# 電気設計
-
 # ソフトウェアの設計
 
 ここで，ソフトウェアの設計について示す．まず，SPRESENSEに接続しているNeoPixelを使用してプランターを明るくさせるシステムを設計した．これにより，明るい環境のみならず，暗い環境下でも野菜の生育をサポートできる．また，生育を行う際，生育の景色の色によって生育の度合いに変化が出ることを考慮して，明かりの色を変化させることも可能にしている．
+
+![image](https://github.com/Hoshino-coder/Book/assets/154045874/4a811c34-9e0f-4aed-bfcd-8f99c2f05da2)
+
+# 野菜の生育度合いの判別
+
+ここでは，機械学習を用いて野菜の生育度合いの判別の機能の実装を行った．ここでは，カメラから発芽前と発芽後を判別するシステムを構築した．
+
+![image](https://github.com/Hoshino-coder/Book/assets/154045874/9a3b462b-4719-462f-b8d9-5fdf30442ba7)
 
 # リポジトリの構成
 

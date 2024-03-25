@@ -36,7 +36,8 @@
 ここで，ハードの設計について示す．ここでは，木材を4本の足としてプランターを囲う形とした．実際，使用時には4本の足を展開することでプランターの上に設置し，SPRESENSEを起動出来るようにしている．また，4本の足を折り畳むだけで収納することが可能になっている．
 
  # 設置方法
-![image](https://github.com/Hoshino-coder/Book/assets/154045874/e1c27cd8-d438-45a0-9f3f-430d4b0e9122)
+![image](https://github.com/Hoshino-coder/Book/assets/154045874/e1c27cd8-d438-45a0-9f3f-430d4b0e9122)![image](https://github.com/Hoshino-coder/Book/assets/154045874/005e6187-af14-4a44-9358-ec9879fe2102)
+
 
 
 # 電気設計

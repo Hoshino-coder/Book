@@ -18,6 +18,7 @@
 以下ではこれらを詳細に述べる．
 
 # 製作＆動作
+下記の部品表の通りに各種部品を用意する．
 
 ![image](https://github.com/Hoshino-coder/Book/assets/154045874/cb7c5430-51b0-4a4f-9bf9-a88c850782bb)
 

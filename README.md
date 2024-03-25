@@ -23,6 +23,7 @@
 
 # 製作物の構成
 
+ここで，製作物の構成について示す．下図より，
 ![image](https://github.com/Hoshino-coder/Book/assets/154045874/66e36f39-efe9-47d4-903d-999e55a0375f)
 
 ![IMG_7354](https://github.com/Hoshino-coder/Book/assets/154045874/f975193f-f003-4774-81bd-c9bf53e06008)

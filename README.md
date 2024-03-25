@@ -11,8 +11,6 @@
 
 ・ハードの設計
 
-・電気設計
-
 ・プログラムの設計
 
 以下ではこれらを詳細に述べる．
@@ -25,9 +23,13 @@
 
 # ハードの設計
 
-# 電気設計
+![image](https://github.com/Hoshino-coder/Book/assets/154045874/66e36f39-efe9-47d4-903d-999e55a0375f)
+
+![IMG_7354](https://github.com/Hoshino-coder/Book/assets/154045874/f975193f-f003-4774-81bd-c9bf53e06008)
 
 # プログラムの設計
+
+
 
 # リポジトリの構成
 

@@ -9,7 +9,7 @@
 
 ・必要な部品の準備
 
-・ハードの設計
+・製作物の構成
 
 ・プログラムの設計
 
@@ -21,7 +21,7 @@
 
 ![image](https://github.com/Hoshino-coder/Book/assets/154045874/cb7c5430-51b0-4a4f-9bf9-a88c850782bb)
 
-# ハードの設計
+# 製作物の構成
 
 ![image](https://github.com/Hoshino-coder/Book/assets/154045874/66e36f39-efe9-47d4-903d-999e55a0375f)
 
